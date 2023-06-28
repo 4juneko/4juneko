@@ -1,4 +1,4 @@
-- 👋 Hi, I’m June Ko
+👋 Hi, I’m June Ko
 
 
 <!---
